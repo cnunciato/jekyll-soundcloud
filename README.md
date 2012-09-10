@@ -3,7 +3,7 @@ jekyll-soundcloud
 
 A Jekyll plug-in for embedding SoundCloud sounds in your Liquid templates.
 
-## Usage:
+### Usage:
 
     {% soundcloud_sound 12345 %}
     {% soundcloud_sound 12345 widgetname %}
@@ -12,7 +12,7 @@ A Jekyll plug-in for embedding SoundCloud sounds in your Liquid templates.
 
   ... where 12345 is the SoundCloud sound ID, and widgetname is the sound's visual representation.
 
-# Available SoundCloud widgets:
+#### Available SoundCloud widgets:
  
   * html5 (default)
   * flash *
