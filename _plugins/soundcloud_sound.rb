@@ -19,7 +19,7 @@
 #      * Requires a paid SoundCloud tier
 #
 #  Author: Chris Nunciato (@cnunciato)
-#  Source: http://github.com/cnunciato/something
+#  Source: http://github.com/cnunciato/jekyll-soundcloud
 
 require 'shellwords'
 
