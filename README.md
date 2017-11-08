@@ -19,4 +19,4 @@ A Jekyll plug-in for embedding SoundCloud sounds in your Liquid templates.
   * mini *
   * artwork *
   
-* Requires a paid SoundCloud tier
+*Requires a paid SoundCloud tier
